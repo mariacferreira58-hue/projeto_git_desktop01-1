@@ -1,3 +1,5 @@
 Meu primeiro arquivo versionado com GitHub Desktop
 
 Alteração feita pra aprender commits.
+
+Amo os dias da semana.
