@@ -4,6 +4,14 @@ Alteração feita pra aprender commits.
 
 Amo os dias da semana. feita pelo site
 
+<<<<<<< HEAD
 começando - clara
 
 linha adicionada no computador local.
+=======
+Linha adicionada No GitHub online
+
+Alana diva demais, amo
+
+Linha adicionada no GitHub online.
+>>>>>>> 9f9a5a3e98a4a01a59dddf71867852ab4a161d4f
